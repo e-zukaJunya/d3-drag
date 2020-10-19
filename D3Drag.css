@@ -1,0 +1,20 @@
+﻿body {
+}
+
+svg {
+  border: solid black 1px;
+}
+
+.hidden{
+  display: inline;
+}
+
+.dragableDialog {
+  border: solid black 1px;
+  position: absolute;
+}
+
+.innnerElm{
+  height: 100px;
+  width: 100px;
+}
